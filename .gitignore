@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+# 排期状态快照
+data/
